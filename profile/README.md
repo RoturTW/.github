@@ -41,7 +41,7 @@ This is a raw packet sent from
 }
 ```
 
-You need not worry though! A sample project i have made handles this whole packet thing for you, (attached to this post).
+You need not worry though! A sample project i have made handles this whole packet thing for you, (linked here:[download](https://github.com/RoturTW/main/raw/main/Example%20Projects/Rotur_Example_Project.sb3)).
 
 Cant wait to answer any questions or just general discussion about this because i think it could go pretty far.
 
@@ -50,16 +50,6 @@ https://github.com/RoturTW/main/wiki
 
 
 # Documentation:
-
-## What is rotur?
-
-Rotur is a cloudlink based standard for packet based communications in turbowarp projects, Generally for Turbowarp-Based OSs.
-
-## Sample Project
-
-### This is essentially the prefered documentation on how to use Rotur, since it can be used to figure out the system yourself
-[Download here](https://github.com/RoturTW/main/raw/main/Example%20Projects/Rotur_Example_Project.sb3)
-
 
 ## Information:
 
