@@ -49,6 +49,13 @@ Cant wait to answer any questions or just general discussion about this because 
 ## Learn more here:
 https://github.com/RoturTW/main/wiki
 
+# What can I use to make clients?
+
+Rotur is able to be used on any one of the clients below, click the link to be taken to a page with code you can easily copy and paste to get your own client setup quickly!
+
+| <img src="https://avatars.githubusercontent.com/u/67349469?s=200&v=4" width="140px"> | <img src="https://raw.githubusercontent.com/Mistium/Origin-OS/main/Resources/origin-logo-new.png" width="140px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="140px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.png" width="140px"> |
+|:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------------:|
+|[Turbowarp](https://github.com/RoturTW/Examples/tree/main/Scratch)|       [OSL](https://github.com/RoturTW/Examples/tree/main/OSL)      |   [Javascript](https://github.com/RoturTW/Examples/tree/main/JS)    | [Python](https://github.com/RoturTW/Examples/tree/main/PY) |
 
 # Documentation:
 
