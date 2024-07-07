@@ -3,10 +3,11 @@ Welcome to rotur!
 # What? Who? Why?
 
 ## What is rotur?
-Rotur is a project started very recently by:
-[Mistium](https://github.com/Mistium)
-[Bob3rRat20](https://github.com/ThatBeaverDev)
-[ThePandaDev](https://github.com/ThePandaDever)
+Rotur is a project started very recently by:<br>
+
+| <img src="https://avatars.githubusercontent.com/u/92952823?v=4" width="140px"> | <img src="https://avatars.githubusercontent.com/u/107750535?v=4" width="140px"> | <img src="https://avatars.githubusercontent.com/u/73702185?v=4" width="140px"> |
+|:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+| [Mistium](https://github.com/Mistium)                            | [Bob3rRat20](https://github.com/ThatBeaverDev)                      | [ThePandaDev](https://github.com/ThePandaDever)                     |
 
 Rotur is intended to allow any project that uses the cloudlink system to have a standard for communication between projects.
 
