@@ -42,12 +42,12 @@ This is a raw packet sent from
 }
 ```
 
-You need not worry though! A sample project i have made handles this whole packet thing for you, (linked here:[download](https://github.com/RoturTW/main/raw/main/Example%20Projects/Rotur_Example_Project.sb3)).
+You need not worry though! A sample project i have made handles this whole packet thing for you, (linked here:[download](https://raw.githubusercontent.com/RoturTW/main/main/Implementations/SCRATCH/Rotur_Example_Project.sb3)).
 
 Cant wait to answer any questions or just general discussion about this because i think it could go pretty far.
 
 ## Learn more here:
-https://github.com/RoturTW/main/wiki
+https://github.com/RoturTW/main
 
 # What can I use to make clients?
 
