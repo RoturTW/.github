@@ -3,7 +3,7 @@ Welcome to rotur!
 # What? Who? Why?
 
 ## What is rotur?
-Rotur is a project started very recently by:<br>
+Rotur is a project started on the 29th of June, 2024 by these people:<br>
 
 | <img src="https://avatars.githubusercontent.com/u/92952823?v=4" width="140px"> | <img src="https://avatars.githubusercontent.com/u/107750535?v=4" width="140px"> | <img src="https://avatars.githubusercontent.com/u/73702185?v=4" width="140px"> |
 |:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
@@ -11,7 +11,7 @@ Rotur is a project started very recently by:<br>
 
 Rotur is intended to allow any project that uses the cloudlink system to have a standard for communication between projects.
 
-Rotur will allow for much more integration between turbowarp projects that has almost never been seen before.
+Rotur allows for much more integration between turbowarp projects that has almost never been seen before.
 
 ## Who is Rotur for?
 
@@ -19,11 +19,11 @@ Rotur is intended mostly for Turbowarp operating systems
 
 The standard should allow for things like crossplay of games between operating systems, or collaborative editing on text editors, running on completely different projects!
 
-I think this could be really really cool if its implemented at a wide scale.
+We think this could be really really cool if its implemented at a wide scale, and it is currently Present in 5 Systems (2 Released)
 
 ## Why use Rotur?
 
-Rotur's packet formatting is simple but powerful, and has a few advantages over using base cl4.
+Rotur's packet formatting is simple but powerful, and has a few advantages over using base [Cloudlink 4](https://github.com/MikeDev101/cloudlink), which is for Scratch-Based Mods.
 
 This is a raw packet sent from 
 ```js
@@ -42,7 +42,7 @@ This is a raw packet sent from
 }
 ```
 
-You need not worry though! A sample project i have made handles this whole packet thing for you, (linked here:[download](https://raw.githubusercontent.com/RoturTW/main/main/Implementations/SCRATCH/Rotur_Example_Project.sb3)).
+You need not worry though! A sample project we have made handles this whole packet thing for you, (linked here:[download](https://raw.githubusercontent.com/RoturTW/main/main/Implementations/SCRATCH/Rotur_Example_Project.sb3)).
 
 Cant wait to answer any questions or just general discussion about this because i think it could go pretty far.
 
