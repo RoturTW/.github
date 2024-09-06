@@ -12,8 +12,6 @@ Rotur is a project started on the 29th of June, 2024 by these people:<br>
 
 Rotur is intended to allow any project that uses the cloudlink system to have a standard for communication between projects.
 
-Rotur allows for much more integration between turbowarp projects that has almost never been seen before.
-
 ## Who is Rotur for?
 
 Rotur is intended mostly for Turbowarp operating systems
