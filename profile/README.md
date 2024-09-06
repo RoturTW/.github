@@ -35,7 +35,7 @@ This is a raw packet sent from
         },
         "source": "", // this is the port you are sending the data from (to allow for replies)
         "target": "", // this is the 'port' that you want to send to
-        "payload": "" // the data that you are sending to the port
+        "payload": "", // the data that you are sending to the port
         "timestamp": "" // the unicode timestamp of when the packet was sent
     },
     "id": "" // username to send the packet to
@@ -46,5 +46,6 @@ You need not worry though! A sample project we have made handles this whole pack
 
 Cant wait to answer any questions or just general discussion about this because i think it could go pretty far.
 
-## Learn more here:
+## Links:
+https://rotur.dev
 https://github.com/RoturTW/main
