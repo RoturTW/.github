@@ -36,6 +36,7 @@ This is a raw packet sent from
         "source": "", // this is the port you are sending the data from (to allow for replies)
         "target": "", // this is the 'port' that you want to send to
         "payload": "" // the data that you are sending to the port
+        "timestamp": "" // the unicode timestamp of when the packet was sent
     },
     "id": "" // username to send the packet to
 }
