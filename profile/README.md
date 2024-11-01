@@ -1,4 +1,4 @@
-Welcome to rotur!
+Welcome to Rotur!
 
 # What? Who? Why?
 
