@@ -7,7 +7,7 @@ Rotur is a project started on the 29th of June, 2024 by these people:<br>
 
 | <img src="https://avatars.githubusercontent.com/u/92952823?v=4" width="140px"> | <img src="https://avatars.githubusercontent.com/u/178028063?s=200&v=4" width="140px"> | <img src="https://avatars.githubusercontent.com/u/73702185?v=4" width="140px"> |
 | :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-|                     [Mistium](https://github.com/Mistium)                      |              [The Constellinux Project](https://github.com/Constellinux)              |                [ThePandaDev](https://github.com/ThePandaDever)                 |
+|                     [Mistium](https://github.com/Mistium)                      |              [The Constellinux Project](https://github.com/Constellinux)              |                [Flufi](https://github.com/ThePandaDever)                 |
 
 Rotur is intended to allow any project that uses the cloudlink system to have a standard for communication between projects.
 
