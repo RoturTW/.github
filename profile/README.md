@@ -1,3 +1,5 @@
+<img width="1440" height="480" alt="image (1)" src="https://github.com/user-attachments/assets/59384c74-a8c4-4707-9931-f6a3364395dc" />
+
 # Getting Started
 
 ### What is Rotur?
